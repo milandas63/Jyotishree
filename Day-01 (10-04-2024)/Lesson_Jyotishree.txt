@@ -1,4 +1,4 @@
-Jyotishree Nayak	9348086517		jyoti8176@gmail.com
+Jyotishree Nayak    9348086517      jyoti8176@gmail.com
 
 
 +-----------------------+
@@ -7,8 +7,8 @@ Jyotishree Nayak	9348086517		jyoti8176@gmail.com
 +----------+
 |  TARGET  |
 +----------+
-	=	Python
-		Gradio
+    =   Python
+        Gradio
         >   Gradio requires Python 3.8 or higher
         >   pip install gradio
         >   Gradio is an open-source Python package that allows you to quickly 
@@ -59,8 +59,8 @@ Jyotishree Nayak	9348086517		jyoti8176@gmail.com
             stability and improving overall system performance.
 
     =   Hugging Face
-	=	Cloudinary
+    =   Cloudinary
 
-	=	Time: 1st June
+    =   Time: 1st June
 
 
